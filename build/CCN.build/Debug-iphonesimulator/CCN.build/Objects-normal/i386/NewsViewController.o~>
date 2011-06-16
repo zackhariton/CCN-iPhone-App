@@ -1,0 +1,4 @@
+/Users/Zack/Documents/Apps/CCN/Classes/../NewsViewController.m: In function '-[NewsViewController loadShows]':
+/Users/Zack/Documents/Apps/CCN/Classes/../NewsViewController.m:42: warning: class 'XMLParserVideo' does not implement the 'NSXMLParserDelegate' protocol
+/Users/Zack/Documents/Apps/CCN/Classes/../NewsViewController.m: In function '-[NewsViewController searchBarTextDidBeginEditing:]':
+/Users/Zack/Documents/Apps/CCN/Classes/../NewsViewController.m:204: warning: incompatible Objective-C types 'struct NewsViewController *', expected 'struct RootViewController *' when passing argument 1 of 'setRvController:' from distinct Objective-C type

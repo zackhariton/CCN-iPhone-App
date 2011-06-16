@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>DetailView.nib</key>
+		<data>
+		Lxja3JPUEVSywdBro7o2SgXbybU=
+		</data>
+		<key>FirstView.nib</key>
+		<data>
+		R2TP42hYlz5RIM8bRyMnChRsh5Y=
+		</data>
+		<key>Horde House Fight Scene.png</key>
+		<data>
+		C3BSGH+U69Sooq2vdrZT0atckJk=
+		</data>
+		<key>Horde House Main Image.png</key>
+		<data>
+		8+7F+NPLOHLwiZPkDvf8sXG7SAM=
+		</data>
+		<key>Horde House Pilot.png</key>
+		<data>
+		0ozWV0muIYT8zYGG7i7vIuEb5fA=
+		</data>
+		<key>Horde House Trailer.png</key>
+		<data>
+		0ozWV0muIYT8zYGG7i7vIuEb5fA=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		Wokq65AYorjIKjCf5vko014rm6Q=
+		</data>
+		<key>Join Us!.png</key>
+		<data>
+		ERK9sRHP6hp2nd5uW7LlmFTGKxY=
+		</data>
+		<key>JoinUsIcon.png</key>
+		<data>
+		zifKbgz0/ljULSLdh0ZNmycOTiE=
+		</data>
+		<key>JoinUsView.nib</key>
+		<data>
+		uirOm9x88pEDwOWoM7BlF47ctdE=
+		</data>
+		<key>Kevorkain Slips Episode 1.png</key>
+		<data>
+		41UbLq6oxo7dAM6bFrWTSIvkDsI=
+		</data>
+		<key>Kevorkian Slips Episode 2.png</key>
+		<data>
+		rSStQv7dHQ/L4rZ9aQJ3gmLVf8w=
+		</data>
+		<key>Kevorkian Slips Episode 3.png</key>
+		<data>
+		qQ6otIqzR0JHEQDcJrPnfcySUXo=
+		</data>
+		<key>Kevorkian Slips Episode 4.png</key>
+		<data>
+		LIMOOVgzgIOpktuzeGPBVg1Ifjc=
+		</data>
+		<key>Kevorkian Slips Main.png</key>
+		<data>
+		75F0o9TBNCIPwQ0u4gYS5osjWbc=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		eYYFMsH/Fu/qWvAcKoYkhy+Vmeo=
+		</data>
+		<key>NewsIcon.png</key>
+		<data>
+		sJDQEwpc8KytPGWQZTPbgLxardA=
+		</data>
+		<key>NewsView.nib</key>
+		<data>
+		LJruapvJdiq1sVQ1cCynoPnAn8M=
+		</data>
+		<key>OverlayView.nib</key>
+		<data>
+		kW9Z7k6BAJMd71d169svod+4kdY=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>SecondView.nib</key>
+		<data>
+		Ok03i5Tb4knwDcRKu0fUSX6PgPU=
+		</data>
+		<key>StartUpImage.png</key>
+		<data>
+		JVWYa3qcM2Xp1PwBt1vEeEug3j0=
+		</data>
+		<key>VideosIcon.png</key>
+		<data>
+		smx0VSYQotUyP/ny6Ift6LYaqIo=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		vn4p9gtMr09OjHoIfQOFmZAziFc=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,3 @@
+/Users/Zack/Documents/Apps/CCN/Classes/XMLParserVideo.m: In function '-[XMLParserVideo parser:foundCharacters:]':
+/Users/Zack/Documents/Apps/CCN/Classes/XMLParserVideo.m:49: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+/Users/Zack/Documents/Apps/CCN/Classes/XMLParserVideo.m:50: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'

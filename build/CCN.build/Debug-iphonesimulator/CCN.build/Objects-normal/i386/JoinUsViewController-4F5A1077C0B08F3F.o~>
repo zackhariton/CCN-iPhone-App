@@ -1,0 +1,5 @@
+/Users/Zack/Documents/Apps/CCN/Classes/JoinUsViewController.m:13: error: no declaration of property 'ScrollView' found in the interface
+/Users/Zack/Documents/Apps/CCN/Classes/JoinUsViewController.m: In function '-[JoinUsViewController dealloc]':
+/Users/Zack/Documents/Apps/CCN/Classes/JoinUsViewController.m:34: error: 'ScrollView' undeclared (first use in this function)
+/Users/Zack/Documents/Apps/CCN/Classes/JoinUsViewController.m:34: error: (Each undeclared identifier is reported only once
+/Users/Zack/Documents/Apps/CCN/Classes/JoinUsViewController.m:34: error: for each function it appears in.)

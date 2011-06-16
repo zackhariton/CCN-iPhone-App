@@ -1,0 +1,273 @@
+TCCN
+v7
+r0
+t314565001.718691
+cCheck dependencies
+cProcessInfoPlistFile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Info.plist CCN-Info.plist
+cCompileXIB /Users/Zack/Documents/Apps/CCN/MainWindow.xib
+cCompileXIB /Users/Zack/Documents/Apps/CCN/SecondView.xib
+cCompileXIB /Users/Zack/Documents/Apps/CCN/FirstView.xib
+cProcessPCH /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch.gch CCN_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/main.o /Users/Zack/Documents/Apps/CCN/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCNAppDelegate.o /Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/FirstViewController.o /Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN normal i386
+cGenerateDSYMFile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app.dSYM /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN
+cTouch /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Zack/Documents/Apps/CCN/CCN_Prefix.pch
+c000000004D0FAA0000000000000000AF
+t1292872192
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.h
+c000000004D0FAA0000000000000001D1
+t1292872192
+s465
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m
+c000000004D0FAA000000000000000C33
+t1292872192
+s3123
+i"CCNAppDelegate.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.h
+c000000004D0FAA0000000000000000EA
+t1292872192
+s234
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m
+c000000004D0FAA0000000000000005B3
+t1292872192
+s1459
+i"FirstViewController.h"
+
+N/Users/Zack/Documents/Apps/CCN/FirstView.xib
+c000000004D0FAA0000000000000049CD
+t1292872192
+s18893
+
+N/Users/Zack/Documents/Apps/CCN/MainWindow.xib
+c000000004D0FAA00000000000000641E
+t1292872192
+s25630
+
+N/Users/Zack/Documents/Apps/CCN/SecondView.xib
+c000000004D0FAA0000000000000049CB
+t1292872192
+s18891
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCN.LinkFileList
+c000000004D0FAA060000000000000157
+t1292872198
+s343
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCNAppDelegate.o
+t1292872200
+s54116
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/FirstViewController.o
+t1292872201
+s37440
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/main.o
+t1292872200
+s6288
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app
+t1292872201
+s272
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app.dSYM
+t1292872201
+s102
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN
+t1292872201
+s16848
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/FirstView.nib
+t1292872199
+s1743
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Info.plist
+t1292872198
+s575
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/MainWindow.nib
+t1292872198
+s1690
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/PkgInfo
+t1292872198
+s8
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/SecondView.nib
+t1292872198
+s1742
+
+N/Users/Zack/Documents/Apps/CCN/main.m
+c000000004D0FAA000000000000000165
+t1292872192
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch.gch
+t1292872200
+s15453392
+
+NCCN-Info.plist
+c000000004D0FAA00000000000000038D
+t1292872192
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314564998#314564998#0(0"0(0#1#0"8672433952#0"0#
+
+CCompileC build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCNAppDelegate.o /Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314565000.369394
+e314565000.707334
+r1
+xCompileC
+xbuild/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCNAppDelegate.o
+x/Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m314565000#314565000#0(0"0(0#0#55"/Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m8652192960#1774"    cd /Users/Zack/Documents/Apps/CCN    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-generated-files.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-own-target-headers.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-all-target-headers.hmap -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-project-headers.hmap -F/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator -I/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/include -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources/i386 -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources -include /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch -c /Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m -o /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCNAppDelegate.o0#
+
+CCompileC build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/FirstViewController.o /Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314565000.673211
+e314565001.140233
+r1
+xCompileC
+xbuild/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/FirstViewController.o
+x/Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m314565000#314565001#0(0"0(0#0#60"/Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m8619510752#1784"    cd /Users/Zack/Documents/Apps/CCN    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-generated-files.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-own-target-headers.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-all-target-headers.hmap -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-project-headers.hmap -F/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator -I/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/include -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources/i386 -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources -include /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch -c /Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m -o /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/main.o /Users/Zack/Documents/Apps/CCN/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314565000.362076
+e314565000.673073
+r1
+xCompileC
+xbuild/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/main.o
+x/Users/Zack/Documents/Apps/CCN/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Zack/Documents/Apps/CCN/main.m314565000#314565000#0(0"0(0#0#37"/Users/Zack/Documents/Apps/CCN/main.m8654731680#1746"    cd /Users/Zack/Documents/Apps/CCN    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-generated-files.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-own-target-headers.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-all-target-headers.hmap -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-project-headers.hmap -F/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator -I/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/include -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources/i386 -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources -include /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch -c /Users/Zack/Documents/Apps/CCN/main.m -o /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/FirstView.xib
+s314564998.629499
+e314564999.067557
+r1
+xCompileXIB
+x/Users/Zack/Documents/Apps/CCN/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib314564998#314564999#0(0"0(0#0#44"/Users/Zack/Documents/Apps/CCN/FirstView.xib8671853216#540"    cd /Users/Zack/Documents/Apps/CCN    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/FirstView.nib /Users/Zack/Documents/Apps/CCN/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/MainWindow.xib
+s314564998.113002
+e314564998.629410
+r1
+xCompileXIB
+x/Users/Zack/Documents/Apps/CCN/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314564998#314564998#0(0"0(0#0#45"/Users/Zack/Documents/Apps/CCN/MainWindow.xib8652766560#542"    cd /Users/Zack/Documents/Apps/CCN    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/MainWindow.nib /Users/Zack/Documents/Apps/CCN/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/SecondView.xib
+s314564998.168453
+e314564998.680243
+r1
+xCompileXIB
+x/Users/Zack/Documents/Apps/CCN/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib314564998#314564998#0(0"0(0#0#45"/Users/Zack/Documents/Apps/CCN/SecondView.xib8652503872#542"    cd /Users/Zack/Documents/Apps/CCN    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/SecondView.nib /Users/Zack/Documents/Apps/CCN/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app.dSYM /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN
+s314565001.667843
+e314565001.687126
+r1
+xGenerateDSYMFile
+x/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app.dSYM
+x/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/CCN.app.dSYM build/Debug-iphonesimulator/CCN.app/CCN314565001#314565001#0(0"0(0#0#70"/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN8677426880#347"    cd /Users/Zack/Documents/Apps/CCN    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN -o /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app.dSYM0#
+
+CLd /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN normal i386
+s314565001.140339
+e314565001.667714
+r1
+xLd
+x/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN
+xnormal
+xi386
+lSLF07#2@75"Link /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN314565001#314565001#0(0"0(0#0#0"8656235232#840"    cd /Users/Zack/Documents/Apps/CCN    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator -F/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator -filelist /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCN.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN0#
+
+CProcessInfoPlistFile /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Info.plist CCN-Info.plist
+s314564998.109193
+e314564998.112917
+r1
+xProcessInfoPlistFile
+x/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Info.plist
+xCCN-Info.plist
+lSLF07#2@22"Process CCN-Info.plist314564998#314564998#0(0"0(0#0#45"/Users/Zack/Documents/Apps/CCN/CCN-Info.plist8655485440#443"    cd /Users/Zack/Documents/Apps/CCN    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CCN-Info.plist -genpkginfo /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Info.plist0#
+
+CProcessPCH /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch.gch CCN_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314564999.067755
+e314565000.361913
+r1
+xProcessPCH
+x/var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch.gch
+xCCN_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile CCN_Prefix.pch314564999#314565000#0(0"0(0#0#45"/Users/Zack/Documents/Apps/CCN/CCN_Prefix.pch8659547712#1650"    cd /Users/Zack/Documents/Apps/CCN    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-generated-files.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-own-target-headers.hmap -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-all-target-headers.hmap -iquote /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/CCN-project-headers.hmap -F/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator -I/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/include -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources/i386 -I/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/DerivedSources -c /Users/Zack/Documents/Apps/CCN/CCN_Prefix.pch -o /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch.gch0#
+
+CTouch /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app
+s314565001.687222
+e314565001.718638
+r1
+xTouch
+x/Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app
+lSLF07#2@72"Touch /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app314565001#314565001#0(0"0(0#0#0"8658866624#258"    cd /Users/Zack/Documents/Apps/CCN    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app0#
+

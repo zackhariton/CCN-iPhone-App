@@ -1,0 +1,53 @@
+38bd39cd153fd39cc21d6dc92cc0f62c ed4641c808f9643bec6bcb0296f7724a ffffffffffffffffffffffffffffffff 23024 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/Reachability.o
+38bd39cd1244557dc21d6dc92cc08404 c7ddcbd5464e7a1a582505e25423caa0 ffffffffffffffffffffffffffffffff 73720 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/NewsViewController.o
+38bd39cd13c1bc41c21d6dc92cc0a78a efc4b15a29e613e34701a309e2358d59 ffffffffffffffffffffffffffffffff 19440 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/XMLParserNews.o
+38bd39cd13c1ffa6c21d6dc92cc0a8d1 9ad87160d77378222e379c8da4ed5454 ffffffffffffffffffffffffffffffff 14284 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/NewsItem.o
+38bd39cd13cb0b7ac21d6dc92cc0a141 51296077d85e72119ff132ec17a51b01 ffffffffffffffffffffffffffffffff 22356 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/XMLParserVideo.o
+38bd39cd123bfeadc21d6dc92cc0bdcb 85e3b2b96145d234289e6dd0e970bc51 ffffffffffffffffffffffffffffffff 39444 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/OverlayViewController.o
+38bd39cd13c1fe7ec21d6dc92cc0af54 f67dece8c23797965ee0907aa94d087f ffffffffffffffffffffffffffffffff 16592 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/Episode.o
+38bd39cd13c34dd3c21d6dc92cc0a921 ff62f30537c18cbce76658f7236dd329 ffffffffffffffffffffffffffffffff 14440 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/Show.o
+38bd39cd13c1f443c21d6dc92cc0bf4c f18c1b5739b65db2c11e0a18734ae3ed ffffffffffffffffffffffffffffffff 65888 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/DetailViewController.o
+38bd39cd5f88081fc21d6dc92cc09c29 0b3b7b788e93b5e715b65fe554936180 ffffffffffffffffffffffffffffffff 85232 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/FirstViewController.o
+38bd39cd12026accc21d6dc92cc0b246 540342b79b37b8a288bd86fb345c4a90 ffffffffffffffffffffffffffffffff 54116 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/CCNAppDelegate.o
+38bd39cd5ece5e3ec21d6dc92cc0b669 9695c2696f633bfbf872b885d54d1762 ffffffffffffffffffffffffffffffff 6288 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/main.o
+00000000000000000000000000000000 e8ee463986b79df8957fd35ed863d7ee ffffffffffffffffffffffffffffffff 102 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app.dSYM
+2dd926f88abe1a37ad892c968a4c1e8a c18435ff46782e94c4028dc382489f59 ffffffffffffffffffffffffffffffff 986 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app
+ba7367f5f573cffa77f60d563643bba8 94b2ef498c70958a6b6b71685014b57e ffffffffffffffffffffffffffffffff 94668 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/CCN
+000000004d0fa0400000000000001e68 38bd39cd120f7c61c21d6dc92cc0a3c5 ffffffffffffffffffffffffffffffff 15453392 /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-aajltefsplmdebcqzgwmxetfbfot/CCN_Prefix.pch.gch
+000000004d35218c0000000000004e53 56d3e7333168a46781b5c21fe38488cb ffffffffffffffffffffffffffffffff 1142 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/NewsView.nib
+00000000000000000000000000000000 3adb0a3873c7acfc8904b9baea1d41c1 ffffffffffffffffffffffffffffffff 11458 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/StartUpImage.png
+00000000000000000000000000000000 f607c62b5166a4ca668de5a394a143b3 ffffffffffffffffffffffffffffffff 3117 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/JoinUsIcon.png
+00000000000000000000000000000000 0bcee6046ed394fb5941ac7cb7ce4108 ffffffffffffffffffffffffffffffff 2970 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/NewsIcon.png
+00000000000000000000000000000000 3e19edd4360fdb89fe85b3fc91fe0dd3 ffffffffffffffffffffffffffffffff 2968 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/VideosIcon.png
+00000000000000000000000000000000 ca8d52f9276df2fb66f3bdb1e086946c ffffffffffffffffffffffffffffffff 135820 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Join Us!.png
+00000000000000000000000000000000 b1af87512822e647366d751cc186e349 ffffffffffffffffffffffffffffffff 9234 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Icon.png
+000000004d1768d5000000000000187a e0a0b770f1440560a0443c3abf8ebc2b ffffffffffffffffffffffffffffffff 764 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/OverlayView.nib
+000000004d2fd8120000000000006b8d ed9a03e6ed88bdbb9ce533395a84ab32 ffffffffffffffffffffffffffffffff 2125 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/DetailView.nib
+000000004d28da470000000000004df9 b76acdbd7889ef7c63633e68d124fb76 ffffffffffffffffffffffffffffffff 1142 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/FirstView.nib
+000000004d3c9eea0000000000005892 328f81641cb6ed5435b5d6bc890fe0ee ffffffffffffffffffffffffffffffff 2332 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/JoinUsView.nib
+000000004d39172e000000000000965e 5f3da353cf38fffe4205fe54cb32130f ffffffffffffffffffffffffffffffff 2692 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/MainWindow.nib
+00000000000000000000000000000000 3d00abac7b57817deba5dfa1f0df71f7 ffffffffffffffffffffffffffffffff 8 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/PkgInfo
+00000000000000000000000000000000 3d00abac7b57817deba5dfa1f0df71f7 ffffffffffffffffffffffffffffffff 647 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Info.plist
+000000004d3911910000000000004e57 946c21f08cebde3c7e988172eb19952a ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/NewsView.s
+38bd39cd13c3e3e7c21d6dc92cc0a54e e902b5e07b680520fd912b26e7968206 ffffffffffffffffffffffffffffffff 21664 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/XMLParser.o
+38bd39cd13c1f432c21d6dc92cc0b4b3 ece3c1beaeb5177074e44837d20e83d1 ffffffffffffffffffffffffffffffff 38204 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/JoinUsViewController.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/JoinUsViewController-4F5A1077C0B08F3F.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/JoinUsViewController-8718AA3AD7A8411C.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/JoinUs.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/JoinUs.nib
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/JoinUSView.nib
+000000004d320e5100000000000069a7 ea7206768e760c2b7e691a9730f0e6f3 ffffffffffffffffffffffffffffffff 2619 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/SecondView.nib
+38bd39cd5f00ce02c21d6dc92cc0b8bd afc7d782ed1673769c15565249328ca1 ffffffffffffffffffffffffffffffff 38668 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/YouTubeView.o
+00000000000000000000000000000000 124b625667e29ccef0a6188797d2379a ffffffffffffffffffffffffffffffff 275278 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Horde House Main Image.png
+00000000000000000000000000000000 ea8706d8a45414997dc1e9964dd53c09 ffffffffffffffffffffffffffffffff 163819 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Kevorkian Slips Main.png
+00000000000000000000000000000000 f8731672e3112f243282a58b5cbabd96 ffffffffffffffffffffffffffffffff 28935 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Kevorkain Slips Episode 1.png
+00000000000000000000000000000000 70d7dbdeb53c55003927aba47370e88e ffffffffffffffffffffffffffffffff 23309 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Kevorkian Slips Episode 2.png
+00000000000000000000000000000000 2aa20c280c6972d87759bbb4dd9d661f ffffffffffffffffffffffffffffffff 23322 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Kevorkian Slips Episode 3.png
+00000000000000000000000000000000 5e3981c02bce0dce38917e299f2201c4 ffffffffffffffffffffffffffffffff 24261 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Kevorkian Slips Episode 4.png
+00000000000000000000000000000000 f8bef0079c1ddbdfcf625e17262c3de3 ffffffffffffffffffffffffffffffff 27888 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Horde House Fight Scene.png
+00000000000000000000000000000000 963e489465ad7ea8b618438b47947d66 ffffffffffffffffffffffffffffffff 27397 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Horde House Pilot.png
+00000000000000000000000000000000 0296a4ef181956b6250217aa621aef90 ffffffffffffffffffffffffffffffff 27397 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/Horde House Trailer.png
+000000004d1bb9530000000000004db7 dfec4d1b39ebef3e2a6dbbf304b78a72 ffffffffffffffffffffffffffffffff 1142 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/FirstViewController.nib
+000000004d1bb6430000000000004db7 946c21f08cebde3c7e988172eb19952a ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/FirstView.s
+000000004d1768d5000000000000187a 8f372f475c6975b109354ac71adfb623 ffffffffffffffffffffffffffffffff 764 /Users/Zack/Documents/Apps/CCN/build/Debug-iphonesimulator/CCN.app/OverlayViewController.nib
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphonesimulator/CCN.build/Objects-normal/i386/OverlayViewController-87EAADE3A952DB37.o

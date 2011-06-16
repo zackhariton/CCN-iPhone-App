@@ -1,0 +1,479 @@
+TCCN
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/Zack/Documents/Apps/CCN/CCN_Prefix.pch
+c000000004D0FAA0000000000000000AF
+t1292872192
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.h
+c000000004D1109C900000000000001D1
+t1292962249
+s465
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m
+c000000004D1100270000000000000C67
+t1292959783
+s3175
+i"CCNAppDelegate.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/DetailViewController.h
+c000000004D1BFE9100000000000001B5
+t1293680273
+s437
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/DetailViewController.m
+c000000004D1BFED400000000000003CB
+t1293680340
+s971
+i"DetailViewController.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/Episode.h
+c000000004D1BFDC30000000000000268
+t1293680067
+s616
+i<Foundation/Foundation.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/Episode.m
+c000000004D1BFDC300000000000001CE
+t1293680067
+s462
+i"Episode.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.h
+c000000004D1BF7210000000000000231
+t1293678369
+s561
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m
+c000000004D1FCCCA00000000000022CB
+t1293929674
+s8907
+i"FirstViewController.h"
+i"CCNAppDelegate.h"
+i"DetailViewController.h"
+i"OverlayViewController.h"
+i"Show.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/OverlayView.xib
+c000000004D1768D5000000000000187A
+t1293379797
+s6266
+
+N/Users/Zack/Documents/Apps/CCN/Classes/OverlayViewController.h
+c000000004D17693100000000000000D9
+t1293379889
+s217
+i<UIKit/UIKit.h>
+
+N/Users/Zack/Documents/Apps/CCN/Classes/OverlayViewController.m
+c000000004D1769100000000000000202
+t1293379856
+s514
+i"OverlayViewController.h"
+i"FirstViewController.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/Show.h
+c000000004D1C01D2000000000000039B
+t1293681106
+s923
+i<Foundation/Foundation.h>
+i"Episode.h"
+
+N/Users/Zack/Documents/Apps/CCN/Classes/Show.m
+c000000004D1C01E800000000000002EE
+t1293681128
+s750
+i"Show.h"
+i"Episode.h"
+
+N/Users/Zack/Documents/Apps/CCN/DetailView.xib
+c000000004D1B649F000000000000528C
+t1293640863
+s21132
+
+N/Users/Zack/Documents/Apps/CCN/FirstView.xib
+c000000004D1BB9530000000000004DB7
+t1293662547
+s19895
+
+N/Users/Zack/Documents/Apps/CCN/Horde House Fight Scene.png
+c000000004D178FF10000000000006CF0
+t1293389809
+s27888
+
+N/Users/Zack/Documents/Apps/CCN/Horde House Main Image.png
+c000000004D178C7E000000000004334E
+t1293388926
+s275278
+
+N/Users/Zack/Documents/Apps/CCN/Horde House Pilot.png
+c000000004D1790050000000000006B05
+t1293389829
+s27397
+
+N/Users/Zack/Documents/Apps/CCN/Horde House Trailer.png
+c000000004D1790100000000000006B05
+t1293389840
+s27397
+
+N/Users/Zack/Documents/Apps/CCN/Kevorkain Slips Episode 1.png
+c000000004D178FB10000000000007107
+t1293389745
+s28935
+
+N/Users/Zack/Documents/Apps/CCN/Kevorkian Slips Episode 2.png
+c000000004D178FC40000000000005B0D
+t1293389764
+s23309
+
+N/Users/Zack/Documents/Apps/CCN/Kevorkian Slips Episode 3.png
+c000000004D178FD40000000000005B1A
+t1293389780
+s23322
+
+N/Users/Zack/Documents/Apps/CCN/Kevorkian Slips Episode 4.png
+c000000004D178FDB0000000000005EC5
+t1293389787
+s24261
+
+N/Users/Zack/Documents/Apps/CCN/Kevorkian Slips Main.png
+c000000004D178CF70000000000027FEB
+t1293389047
+s163819
+
+N/Users/Zack/Documents/Apps/CCN/MainWindow.xib
+c000000004D1BBC930000000000007771
+t1293663379
+s30577
+
+N/Users/Zack/Documents/Apps/CCN/SecondView.xib
+c000000004D0FAA0000000000000049CB
+t1292872192
+s18891
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCN
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCN.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCNAppDelegate.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/DetailViewController.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Episode.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/FirstViewController.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/OverlayViewController.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Show.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCN
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCN.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCNAppDelegate.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/DetailViewController.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Episode.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/FirstViewController.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/OverlayViewController.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Show.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app.dSYM
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/CCN
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/DetailView.nib
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/FirstView.nib
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Fight Scene.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Main Image.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Pilot.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Trailer.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Info.plist
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkain Slips Episode 1.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 2.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 3.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 4.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Main.png
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/MainWindow.nib
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/OverlayView.nib
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/PkgInfo
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/SecondView.nib
+t2
+s0
+
+N/Users/Zack/Documents/Apps/CCN/main.m
+c000000004D0FAA000000000000000165
+t1292872192
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-dcrwxvmlbptsvqdmkogsdsqgmjge/CCN_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-dtyxbtdyimhgcnbavhqwckewnfbh/CCN_Prefix.pch.gch
+t2
+s0
+
+NCCN-Info.plist
+c000000004D0FAA00000000000000038D
+t1292872192
+s909
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCNAppDelegate.o /Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/DetailViewController.o /Users/Zack/Documents/Apps/CCN/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Episode.o /Users/Zack/Documents/Apps/CCN/Classes/Episode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/FirstViewController.o /Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/OverlayViewController.o /Users/Zack/Documents/Apps/CCN/Classes/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Show.o /Users/Zack/Documents/Apps/CCN/Classes/Show.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/main.o /Users/Zack/Documents/Apps/CCN/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCNAppDelegate.o /Users/Zack/Documents/Apps/CCN/Classes/CCNAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/DetailViewController.o /Users/Zack/Documents/Apps/CCN/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Episode.o /Users/Zack/Documents/Apps/CCN/Classes/Episode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/FirstViewController.o /Users/Zack/Documents/Apps/CCN/Classes/FirstViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/OverlayViewController.o /Users/Zack/Documents/Apps/CCN/Classes/OverlayViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Show.o /Users/Zack/Documents/Apps/CCN/Classes/Show.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/main.o /Users/Zack/Documents/Apps/CCN/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/Classes/OverlayView.xib
+r0
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/DetailView.xib
+r0
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/FirstView.xib
+r0
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/MainWindow.xib
+r0
+
+CCompileXIB /Users/Zack/Documents/Apps/CCN/SecondView.xib
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Fight Scene.png" "Horde House Fight Scene.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Main Image.png" "Horde House Main Image.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Pilot.png" "Horde House Pilot.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Trailer.png" "Horde House Trailer.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkain Slips Episode 1.png" "Kevorkain Slips Episode 1.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 2.png" "Kevorkian Slips Episode 2.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 3.png" "Kevorkian Slips Episode 3.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 4.png" "Kevorkian Slips Episode 4.png"
+r0
+
+CCopyPNGFile "/Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Main.png" "Kevorkian Slips Main.png"
+r0
+
+CCpResource build/Debug-iphoneos/CCN.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/CCN normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app.dSYM /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/CCN
+r0
+
+CLd /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCN normal armv6
+r0
+
+CLd /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCN normal armv7
+r0
+
+CProcessInfoPlistFile /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Info.plist CCN-Info.plist
+r0
+
+CProcessPCH /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-dcrwxvmlbptsvqdmkogsdsqgmjge/CCN_Prefix.pch.gch CCN_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-dtyxbtdyimhgcnbavhqwckewnfbh/CCN_Prefix.pch.gch CCN_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app
+r0
+

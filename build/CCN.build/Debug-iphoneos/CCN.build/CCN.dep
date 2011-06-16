@@ -1,0 +1,65 @@
+e36ba514033dda3f0e2b8fdba53ca870 6806c41da03d767fb02764a44c202626 ffffffffffffffffffffffffffffffff 21856 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Reachability.o
+e76bab8c6d86739f5442f67c8844abbc 710a8aec5f8b38cf683248f6b5164628 ffffffffffffffffffffffffffffffff 22252 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Reachability.o
+e36ba51402b4084a0e2b8fdba53cda70 ddca93f02d4c0048407ef49d6d6f1777 ffffffffffffffffffffffffffffffff 70124 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/NewsViewController.o
+e76bab8c6c0fa1ea5442f67c8844d9bc 1a5b94c8463c80f4f9762e5ae4a5736c ffffffffffffffffffffffffffffffff 70620 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/NewsViewController.o
+e36ba5140331d38f0e2b8fdba53cf9fe a5d6949ec2c82e3afe7f190c05c0baae ffffffffffffffffffffffffffffffff 18980 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/XMLParserNews.o
+e76bab8c6d8a7a2f5442f67c8844fa32 14b9855223c6ab3ee7a644c732169cd3 ffffffffffffffffffffffffffffffff 19152 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/XMLParserNews.o
+e36ba514033190680e2b8fdba53cf6a5 522520a7a076c595fe164cba920988e2 ffffffffffffffffffffffffffffffff 13716 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/NewsItem.o
+e76bab8c6d8a39c85442f67c8844f569 09a54042b418d40ffe0323f250dfb0ef ffffffffffffffffffffffffffffffff 13896 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/NewsItem.o
+e36ba514033b64b40e2b8fdba53cff35 1ffaa2243ad491ac1490b1c016016a17 ffffffffffffffffffffffffffffffff 21820 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/XMLParserVideo.o
+e76bab8c6d80cd145442f67c8844fcf9 0cbf34cb9f5ccfd4c66b2d957b98b541 ffffffffffffffffffffffffffffffff 22000 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/XMLParserVideo.o
+e36ba51402cbbc200e2b8fdba53ce3bf cd07f36e747bc3cf5dbecf26a5ab9aee ffffffffffffffffffffffffffffffff 39292 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/OverlayViewController.o
+e76bab8c6c7015805442f67c8844e073 bb851f3327ecb54aaa97cfa7ce06009e ffffffffffffffffffffffffffffffff 39340 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/OverlayViewController.o
+e36ba514033191b00e2b8fdba53cf120 b133f282089c37e84bb0ebbd73296d4b ffffffffffffffffffffffffffffffff 15792 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Episode.o
+e76bab8c6d8a38105442f67c8844f2ec 68fef4739804b4af8cbf7f68fdf05996 ffffffffffffffffffffffffffffffff 16028 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Episode.o
+e36ba5140333221d0e2b8fdba53cf755 ae5a91375c881d1d05772e1c07dc67e6 ffffffffffffffffffffffffffffffff 14180 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/Show.o
+e76bab8c6d888bbd5442f67c8844f499 0af10035d98c278204ca75c4def5ae6d ffffffffffffffffffffffffffffffff 14216 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/Show.o
+e36ba514033184370e2b8fdba53ce138 fe93dbc0fa5ab5611bca20412e492bed ffffffffffffffffffffffffffffffff 62868 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/DetailViewController.o
+e76bab8c6d8a2d975442f67c8844e2f4 bf603b28c690bf1f64708db25a08d831 ffffffffffffffffffffffffffffffff 63616 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/DetailViewController.o
+e36ba5144f787aaa0e2b8fdba53cc25d 2a9ee166450e6163dfca8cebd9540189 ffffffffffffffffffffffffffffffff 81184 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/FirstViewController.o
+e76bab8c21c3d30a5442f67c8844c191 541ed3a50902713ad4a4b90285592626 ffffffffffffffffffffffffffffffff 81808 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/FirstViewController.o
+e36ba51402f228410e2b8fdba53cec32 f8b9ae07ec4da9b61eb8619dbe5573c0 ffffffffffffffffffffffffffffffff 53684 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCNAppDelegate.o
+e76bab8c6c4981e15442f67c8844effe 9c51cf063c981407b448288ad0496fe4 ffffffffffffffffffffffffffffffff 53764 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCNAppDelegate.o
+e36ba5144e3e2e4a0e2b8fdba53ce81d 106b55e9ce47ea68d835dbebd6a24205 ffffffffffffffffffffffffffffffff 6416 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/main.o
+e76bab8c208587ea5442f67c8844ebd1 34599c4bd43733d32e7736847b4a4d5c ffffffffffffffffffffffffffffffff 6432 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/main.o
+e38a224bd97bb738b82ab009015f841c ae4776bb82d1ed39ab9eec670f65d80e ffffffffffffffffffffffffffffffff 377 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/CCN.xcent
+00000000000000000000000000000000 b43129f0cb797592a0de489305248fb1 ffffffffffffffffffffffffffffffff 102 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app.dSYM
+fb3b62f7de17f0b90781ec28ac5348ad d825d740fafd2209e7c28bbcd9957b93 ffffffffffffffffffffffffffffffff 1054 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app
+00000000000000000000000000000000 9f0c453a108eb50e3db4d1706f0d55fe ffffffffffffffffffffffffffffffff 7190 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/embedded.mobileprovision
+5aeab287fd946a081592625b19005d26 198d93fb3deb4c68a6352408695a92ee ffffffffffffffffffffffffffffffff 198912 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/CCN
+b37410632413b8cff5546814eef4eb66 08637db503ef1f925ab528ac07484064 ffffffffffffffffffffffffffffffff 90296 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/CCN
+000000004d0fbffa0000000000001e68 e36ba51402ff21560e2b8fdba53cfdb1 ffffffffffffffffffffffffffffffff 10446552 /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-dtyxbtdyimhgcnbavhqwckewnfbh/CCN_Prefix.pch.gch
+e00ebf4a1c550d554683c3b9d1748e7d 01f3601bc63dc000fcf0e15a21c87859 ffffffffffffffffffffffffffffffff 90412 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/CCN
+000000004d0fbffa0000000000001e68 e76bab8c6c4488f65442f67c8844fe7d ffffffffffffffffffffffffffffffff 9983704 /var/folders/R0/R0xRFyLDFwCOK6EzDDgrj++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CCN_Prefix-dcrwxvmlbptsvqdmkogsdsqgmjge/CCN_Prefix.pch.gch
+000000004d3911910000000000004e57 cccfd2d0f184fd2c9554616bffe1e4e1 ffffffffffffffffffffffffffffffff 1142 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/NewsView.nib
+00000000000000000000000000000000 ef4fe8406fe2208cf3b66912c83a579e ffffffffffffffffffffffffffffffff 13404 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/StartUpImage.png
+00000000000000000000000000000000 14ca8ef01f2fb91736e83cfabe6c4707 ffffffffffffffffffffffffffffffff 3107 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/JoinUsIcon.png
+00000000000000000000000000000000 f36c9128d70acd774f69279014c5f6e3 ffffffffffffffffffffffffffffffff 2917 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/NewsIcon.png
+00000000000000000000000000000000 1a0f06700c4ad2f72627eef46b188fd9 ffffffffffffffffffffffffffffffff 2924 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/VideosIcon.png
+00000000000000000000000000000000 2562db918b03066586e7bd06cdd102b4 ffffffffffffffffffffffffffffffff 130423 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Join Us!.png
+00000000000000000000000000000000 151536d80104efee3887f3f815536f96 ffffffffffffffffffffffffffffffff 9406 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Icon.png
+000000004d1768d5000000000000187a 61098a4de95c1b0269b2d7827ad6afea ffffffffffffffffffffffffffffffff 764 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/OverlayView.nib
+000000004d2fd8120000000000006b8d 019bd3e7c9a594e84ac9c4b005b9e4db ffffffffffffffffffffffffffffffff 2122 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/DetailView.nib
+000000004d28da470000000000004df9 1eb7aa1d108b7cd189e4001ac3ca31c6 ffffffffffffffffffffffffffffffff 1142 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/FirstView.nib
+000000004d3c9eea0000000000005892 29eb78621d4bbd45cd54f585564cbf89 ffffffffffffffffffffffffffffffff 2332 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/JoinUsView.nib
+000000004d39172e000000000000965e 9489463f8cc153b1c477f8c74a0f89bf ffffffffffffffffffffffffffffffff 2688 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/MainWindow.nib
+00000000000000000000000000000000 e38a224bd97bb738b82ab009015f841c ffffffffffffffffffffffffffffffff 8 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/PkgInfo
+00000000000000000000000000000000 e38a224bd97bb738b82ab009015f841c ffffffffffffffffffffffffffffffff 837 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Info.plist
+00000000000000000000000000000000 0a49052a7f3c1e71ad0ad6783d0ac0af ffffffffffffffffffffffffffffffff 485 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/ResourceRules.plist
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/NewsView.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/NewsView.o
+e36ba51403338c290e2b8fdba53cfb3a 5df8676d4ec2db9a572583b163948549 ffffffffffffffffffffffffffffffff 21164 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/XMLParser.o
+e76bab8c6d8825895442f67c8844f8f6 0fbb6e5e8bca351ce6789ff541c2bc43 ffffffffffffffffffffffffffffffff 21320 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/XMLParser.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/NewsIcon.psd
+000000004d0faa0000000000000049cb b328d12791249f03f7be985d23216de9 ffffffffffffffffffffffffffffffff 1742 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/SecondView.nib
+e36ba5144ff08c8f0e2b8fdba53ce6c9 d124bd8f720b03dbd674f255d9536aa1 ffffffffffffffffffffffffffffffff 38816 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv7/YouTubeView.o
+e76bab8c214b252f5442f67c8844e505 e866ba73b2d7bdd6f94aef4556366b58 ffffffffffffffffffffffffffffffff 39020 /Users/Zack/Documents/Apps/CCN/build/CCN.build/Debug-iphoneos/CCN.build/Objects-normal/armv6/YouTubeView.o
+00000000000000000000000000000000 d5c82eb489f9ceea85876e65b8d42e0f ffffffffffffffffffffffffffffffff 266015 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Main Image.png
+00000000000000000000000000000000 1da28b7fe17a7f074e64ec7605677207 ffffffffffffffffffffffffffffffff 159193 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Main.png
+00000000000000000000000000000000 e70df19f3de66692a856e8ba69c75683 ffffffffffffffffffffffffffffffff 28964 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkain Slips Episode 1.png
+00000000000000000000000000000000 e47401783bcf58684ea023b65ef47052 ffffffffffffffffffffffffffffffff 23303 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 2.png
+00000000000000000000000000000000 adb987196a6569c8378458f484eb2a5c ffffffffffffffffffffffffffffffff 23617 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 3.png
+00000000000000000000000000000000 9399cfe7c3cf9b46c474b14aba948699 ffffffffffffffffffffffffffffffff 24289 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Kevorkian Slips Episode 4.png
+00000000000000000000000000000000 567dc02aa7876732f1ce5a404c1958b1 ffffffffffffffffffffffffffffffff 28719 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Fight Scene.png
+00000000000000000000000000000000 61922a230702f64f8875da3429cf301e ffffffffffffffffffffffffffffffff 28153 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Pilot.png
+00000000000000000000000000000000 cd41fe096ec7d740dbef3dff62097adb ffffffffffffffffffffffffffffffff 28153 /Users/Zack/Documents/Apps/CCN/build/Debug-iphoneos/CCN.app/Horde House Trailer.png
