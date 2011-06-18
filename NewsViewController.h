@@ -7,10 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ImageDownload.h"
 
 @class OverlayViewController;
 
-@interface NewsViewController : UITableViewController {
+@interface NewsViewController : UITableViewController <ImageDownloadDelegate> {
 	NSMutableArray *NewsItems;
 	NSMutableArray *copyNewsItems;
 	IBOutlet UISearchBar *searchBar;

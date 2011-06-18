@@ -37,7 +37,7 @@
 }
 
 -(void)loadNewsItems	{
-    NSURL *url = [[NSURL alloc] initWithString:@"http://www.clarku.edu/students/ccn/App/News.xml"];
+    NSURL *url = [[NSURL alloc] initWithString:@"http://www.zackhariton.com/App/News.xml"];
 	UIApplication *app = [UIApplication sharedApplication];
 	app.networkActivityIndicatorVisible = YES;
 	NSXMLParser *xmlParser = [[NSXMLParser alloc] initWithContentsOfURL:url];
@@ -62,12 +62,10 @@
 #pragma mark Table view methods
 
 - (UITableViewCell *) getCellContentView:(NSString *)cellIdentifier {
-	
 	CGRect CellFrame = CGRectMake(0, 0, 300, 70);
 	CGRect Label1Frame = CGRectMake(10, 2, 290, 20);
 	CGRect Label2Frame = CGRectMake(10, 24, 290, 15);
 	UILabel *lblTemp;
-    UIImageView *image = [[UIImageView alloc] initWithFrame:CGRectMake(240, 6, 58, 58)];
 	
 	UITableViewCell *cell = [[[UITableViewCell alloc] initWithFrame:CellFrame reuseIdentifier:cellIdentifier] autorelease];
 	
@@ -84,21 +82,8 @@
 	lblTemp.font = [UIFont systemFontOfSize:12];
 	[cell.contentView addSubview:lblTemp];
 	[lblTemp release];
-    
-    image.tag = 3;
-    [image setBackgroundColor:[UIColor lightGrayColor]];
-    [cell.contentView addSubview:image];
-    [image release];
 	
 	return cell;
-}
-
-- (void)downloadDidFinishDownloading:(ImageDownload *)download  {
-    /*if (download.image != nil) {
-        [download.activityIndicator stopAnimating];
-        [download.activityIndicator release];
-    }*/
-    download.imageView.image = download.image;
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -134,22 +119,9 @@
         lblTemp2.frame = CGRectMake(10, 24, 230, 45);
         cell.frame = CGRectMake(0, 0, 300, 70);
 		lblTemp2.text = Temp;
-        
-        /*ImageDownload *ImageDownloader = [[ImageDownload alloc] init];
-        ImageDownloader.urlString = [[NewsItems objectAtIndex:indexPath.row] getImage];
-        ImageDownloader.imageView = (UIImageView *) [cell viewWithTag:3];*/
-        
-        //[self startIconDownloadForCell:cell atIndexPath:indexPath];
-        //[self loadImagesForOnscreenRows];
-        
-        /*UIActivityIndicatorView *activityIndicator = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
-        [activityIndicator setCenter:CGPointMake(269, 35)];
-        [cell.contentView addSubview:activityIndicator];
-        ImageDownloader.activityIndicator = activityIndicator;
-        [activityIndicator startAnimating];
-        if (ImageDownloader.image == nil) {
-            ImageDownloader.delegate = self;
-        }*/
+        UIImageView *imageView = [[NewsItems objectAtIndex:indexPath.row] getImageView];
+        imageView.tag = 3;
+        [cell addSubview:imageView];
 	}
 	return cell;
 }
@@ -299,12 +271,10 @@
 #pragma mark -
 #pragma mark Image Download
 
-//Download the cell's image
-- (void)startIconDownloadForCell:(UITableViewCell *)cell atIndexPath:(NSIndexPath *)indexPath
-{
+- (void)downloadIcon:(UIImageView *)imageView withURL:(NSString *)URL  {
     ImageDownload *ImageDownloader = [[ImageDownload alloc] init];
-    ImageDownloader.urlString = [[NewsItems objectAtIndex:indexPath.row] getImage];
-    ImageDownloader.imageView = (UIImageView *) [cell viewWithTag:3];
+    ImageDownloader.urlString = URL;
+    ImageDownloader.imageView = imageView;
     if (ImageDownloader.image == nil) {
         ImageDownloader.delegate = self;
     }
@@ -315,14 +285,17 @@
 - (void)loadImagesForOnscreenRows
 {
     NSArray *visiblePaths = [self.tableView indexPathsForVisibleRows];
-    for (NSIndexPath *indexPath in visiblePaths)
-    {
-        UITableViewCell *cell = [self.tableView cellForRowAtIndexPath:indexPath];
-        UIImageView *imageView = (UIImageView *)[cell viewWithTag:3];
+    for (int i = 0; i < [visiblePaths count]; i++)  {
+        NSIndexPath *indexPath = [visiblePaths objectAtIndex:i];
+        UIImageView *imageView = [[NewsItems objectAtIndex:indexPath.row] getImageView];
         if (imageView.image == nil && imageView.hidden == NO) {
-            [self startIconDownloadForCell:cell atIndexPath:indexPath];
+            [self downloadIcon:imageView withURL:[[NewsItems objectAtIndex:indexPath.row] getImage]];
         }
     }
+}
+
+- (void)downloadDidFinishDownloading:(ImageDownload *)download  {
+    download.imageView.image = download.image;
 }
 
 #pragma mark -

@@ -10,7 +10,13 @@
 
 @implementation Article
 
-@synthesize Name, subTitle, Image, Body;
+@synthesize Name, subTitle, Image, Body, imageView;
+
+- (id) init   {
+    imageView = [[UIImageView alloc] initWithFrame:CGRectMake(240, 6, 58, 58)];
+    [imageView setBackgroundColor:[UIColor lightGrayColor]];
+    return self;
+}
 
 - (void) setName:(NSString *)newName setsubTitle:(NSString *)newsubTitle setImage:(NSString *)newImage setBody:(NSMutableArray *)newBody	{
 	Name = newName;
@@ -31,6 +37,10 @@
 }
 - (void) setImage:(NSString *)newImage  {
     Image = newImage;
+}
+
+- (void) setImageView:(UIImageView *)newImageView   {
+    imageView = newImageView;
 }
 
 - (NSMutableArray*) getBody {
@@ -65,6 +75,10 @@
         }
     }
     return Result;
+}
+
+- (UIImageView*)getImageView    {
+    return imageView;
 }
 
 - (Article*)deepCopy	{
