@@ -43,6 +43,10 @@
 	letUserSelectRow = YES;
 }
 
+- (void) viewDidAppear:(BOOL)animated  {
+    [self loadImagesForOnscreenRows];
+}
+
 -(void)loadShows	{
 	NSURL *url = [[NSURL alloc] initWithString:@"http://www.zackhariton.com/App/Videos.xml"];
 	UIApplication *app = [UIApplication sharedApplication];
@@ -58,8 +62,6 @@
 	[xmlParser setDelegate:parser];
 	
 	[xmlParser parse];
-	
-    //Shows = [[NSMutableArray alloc] initWithArray:[parser getShows] copyItems:YES];
     
 	for (Show *showTemp in [parser getShows])	{
 		[Shows addObject:[showTemp deepCopy]];
@@ -76,7 +78,6 @@
 	CGRect Label1Frame = CGRectMake(10, 2, 230, 20);
 	CGRect Label2Frame = CGRectMake(10, 24, 230, 15);
 	UILabel *lblTemp;
-    UIImageView *image = [[UIImageView alloc] initWithFrame:CGRectMake(240, 6, 58, 58)];
 	
 	UITableViewCell *cell = [[[UITableViewCell alloc] initWithFrame:CellFrame reuseIdentifier:cellIdentifier] autorelease];
 	
@@ -93,21 +94,8 @@
 	lblTemp.font = [UIFont systemFontOfSize:12];
 	[cell.contentView addSubview:lblTemp];
 	[lblTemp release];
-    
-    image.tag = 3;
-    [image setBackgroundColor:[UIColor lightGrayColor]];
-    [cell.contentView addSubview:image];
-    [image release];
 	
 	return cell;
-}
-
-- (void)downloadDidFinishDownloading:(ImageDownload *)download  {
-    if (download.image != nil) {
-        [download.activityIndicator stopAnimating];
-        [download.activityIndicator release];
-    }
-    download.imageView.image = download.image;
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -145,18 +133,9 @@
         cell.frame = CGRectMake(0, 0, 300, 70);
 		lblTemp2.text = Temp;
         
-        ImageDownload *ImageDownloader = [[ImageDownload alloc] init];
-        ImageDownloader.urlString = [[[[Shows objectAtIndex:indexPath.section] getEpisodes] objectAtIndex:indexPath.row] getImage];
-        ImageDownloader.imageView = (UIImageView *) [cell viewWithTag:3];
-        
-        UIActivityIndicatorView *activityIndicator = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
-        [activityIndicator setCenter:CGPointMake(269, 35)];
-        [cell.contentView addSubview:activityIndicator];
-        ImageDownloader.activityIndicator = activityIndicator;
-        [activityIndicator startAnimating];
-        if (ImageDownloader.image == nil) {
-            ImageDownloader.delegate = self;
-        }
+        UIImageView *imageView = [[[[Shows objectAtIndex:indexPath.section] getEpisodes] objectAtIndex:indexPath.row] getImageView];;
+        imageView.tag = 3;
+        [cell addSubview:imageView];
 	}
 	return cell;
 }
@@ -326,6 +305,53 @@
 	ovController = nil;
 	
 	[self.tableView reloadData];
+}
+
+#pragma mark -
+#pragma mark Image Download
+
+- (void)downloadIcon:(UIImageView *)imageView withURL:(NSString *)URL  {
+    ImageDownload *ImageDownloader = [[ImageDownload alloc] init];
+    ImageDownloader.urlString = URL;
+    ImageDownloader.imageView = imageView;
+    if (ImageDownloader.image == nil) {
+        ImageDownloader.delegate = self;
+    }
+    [ImageDownloader release];
+}
+
+// this method is used in case the user scrolled into a set of cells that don't have their app icons yet
+- (void)loadImagesForOnscreenRows
+{
+    NSArray *visiblePaths = [self.tableView indexPathsForVisibleRows];
+    for (int i = 0; i < [visiblePaths count]; i++)  {
+        NSIndexPath *indexPath = [visiblePaths objectAtIndex:i];
+        UIImageView *imageView = [[[[Shows objectAtIndex:indexPath.section] getEpisodes] objectAtIndex:indexPath.row] getImageView];;
+        if (imageView.image == nil && imageView.hidden == NO) {
+            [self downloadIcon:imageView withURL:[[[[Shows objectAtIndex:indexPath.section] getEpisodes] objectAtIndex:indexPath.row] getImage]];
+        }
+    }
+}
+
+- (void)downloadDidFinishDownloading:(ImageDownload *)download  {
+    download.imageView.image = download.image;
+}
+
+#pragma mark -
+#pragma mark Lazy Image Loading
+
+// Load images for all onscreen rows when scrolling is finished
+- (void)scrollViewDidEndDragging:(UIScrollView *)scrollView willDecelerate:(BOOL)decelerate
+{
+    if (!decelerate)
+	{
+        [self loadImagesForOnscreenRows];
+    }
+}
+
+- (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView
+{
+    [self loadImagesForOnscreenRows];
 }
 
 - (void) checkNetworkStatus:(NSNotification *)notice

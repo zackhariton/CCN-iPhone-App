@@ -34,6 +34,11 @@
 	
 	searching = NO;
 	letUserSelectRow = YES;
+    //[self loadImagesForOnscreenRows];
+}
+
+- (void) viewDidAppear:(BOOL)animated  {
+    [self loadImagesForOnscreenRows];
 }
 
 -(void)loadNewsItems	{
