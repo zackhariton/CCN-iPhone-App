@@ -78,7 +78,7 @@
 		1D3623250D0F684500981E51 /* CCNAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCNAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* CCN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CCN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		28216C950DB411BC00E5133A /* VideosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; path = VideosViewController.h; sourceTree = "<group>"; };
+		28216C950DB411BC00E5133A /* VideosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideosViewController.h; sourceTree = "<group>"; };
 		28216C960DB411BC00E5133A /* VideosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideosViewController.m; sourceTree = "<group>"; };
 		282CCBFD0DB6C98000C4EA27 /* JoinUsView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JoinUsView.xib; sourceTree = "<group>"; };
 		2840D7CD1179279E00D7F93C /* VideosView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideosView.xib; sourceTree = "<group>"; };
@@ -160,6 +160,19 @@
 			name = Data;
 			sourceTree = "<group>";
 		};
+		14FADEEA13AD7AA1007ECAD3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				14BD011E12DE5B7700673AE1 /* Icon.png */,
+				1486341D12E242DD003F1E51 /* Join Us!.png */,
+				148634B212E25C16003F1E51 /* VideosIcon.png */,
+				148634BC12E26292003F1E51 /* NewsIcon.png */,
+				148634C512E358F5003F1E51 /* JoinUsIcon.png */,
+				1486350B12E36C92003F1E51 /* StartUpImage.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -193,12 +206,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				14BD011E12DE5B7700673AE1 /* Icon.png */,
-				1486341D12E242DD003F1E51 /* Join Us!.png */,
-				148634B212E25C16003F1E51 /* VideosIcon.png */,
-				148634BC12E26292003F1E51 /* NewsIcon.png */,
-				148634C512E358F5003F1E51 /* JoinUsIcon.png */,
-				1486350B12E36C92003F1E51 /* StartUpImage.png */,
+				14FADEEA13AD7AA1007ECAD3 /* Images */,
 				148C3D7A12C7A05500C08914 /* OverlayView.xib */,
 				14C9018E12BFF20D005A287D /* DetailView.xib */,
 				2840D7CD1179279E00D7F93C /* VideosView.xib */,
